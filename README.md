@@ -1,4 +1,4 @@
-#VisProt FX 1.0 - Java FX GUI Protein Visualiser (c) 2015 Slav Danchev
+#VisProt FX 1.0 - Java FX GUI Protein Visualiser
 
 ##DESCRIPTION
 A simple GUI protein visualiser made with Java FX and FX3D. 
@@ -57,3 +57,6 @@ The user may move separate polypeptide chains independently by holding down the 
 ##FURTHER NOTES
 The protein visualizer will save all downloaded PDB files in the same directory the .jar file is located. 
 If a PDB file is already present in the same directory, a second download will not be performed. 
+
+###COPYRIGHT
+2015 (C) Slav Danchev
